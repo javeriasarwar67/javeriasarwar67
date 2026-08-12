@@ -1,43 +1,25 @@
 <div align="center">
 
-<img src="https://api.dicebear.com/7.x/adventurer/svg?seed=Javeria&backgroundColor=b6e3f4&flip=true" width="180" height="180" alt="avatar"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Coding-From-4F5B93?style=for-the-badge&logo=girl&logoColor=white" />
-<img src="https://img.shields.io/badge/Home-lightgrey?style=for-the-badge&logo=home&logoColor=333" />
-
-<br><br>
-
-<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="mailto:javeriasarwar445@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-<br><br>
-
-# HI, HOW ARE YOU?
-### WELCOME TO MY PROFILE
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4F5B93&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Javeria+Sarwar;Software+Engineering+Student;Full-Stack+Web+Developer;PHP+%7C+MySQL+%7C+JavaScript" alt="Typing SVG" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F5B93&height=150&section=header" width="100%"/>
 
 <br>
 
-<img src="https://img.icons8.com/fluency/30/user-male-circle.png"/> **About Me**
+## About Me
 
-- BS Software Engineering student at the **University of Sargodha** (2023–2027)
-- Full-stack developer working with **PHP, MySQL & JavaScript**
-- Practical exposure to secure coding, cybersecurity, and database design
-- Built and deployed a **Smart Hostel Management System** — [view project](https://hostelmanagement.gamer.gd/login.php)
-- Currently expanding into **AI** and **digital marketing**
-- Reach me at **javeriasarwar445@gmail.com**
+- 🎓 BS Software Engineering student at the **University of Sargodha** (2023–2027)
+- 💻 Full-stack developer working with **PHP, MySQL & JavaScript**
+- 🛡️ Practical exposure to secure coding, cybersecurity, and database design
+- 🏠 Built and deployed a **Smart Hostel Management System** — [view project](https://hostelmanagement.gamer.gd/login.php)
+- 📈 Currently expanding into **AI** and **digital marketing**
+- 📫 Reach me at **javeriasarwar445@gmail.com**
 
 <br>
 
-<img src="https://img.icons8.com/fluency/30/source-code.png"/> **Tech Stack**
+## Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -52,16 +34,23 @@
 
 <br>
 
-<img src="https://img.icons8.com/fluency/30/rocket.png"/> **Featured Projects**
+## Featured Projects
 
 | | |
 |---|---|
-| <img src="https://img.icons8.com/fluency/24/home.png"/> | **[Smart Hostel Management System](https://hostelmanagement.gamer.gd/login.php)** — Secure auth, full CRUD, automated fee engine |
-| <img src="https://img.icons8.com/fluency/24/shield.png"/> | **PhishGuard** — Phishing URL analyzer, 12 heuristic checks, 0–100 risk scoring |
-| <img src="https://img.icons8.com/fluency/24/recycle-sign.png"/> | **Garbage Classification AI** — Naive Bayes classifier, 95% accuracy |
+| 🏠 | **[Smart Hostel Management System](https://hostelmanagement.gamer.gd/login.php)** — Secure auth, full CRUD, automated fee engine |
+| 🛡️ | **PhishGuard** — Phishing URL analyzer, 12 heuristic checks, 0–100 risk scoring |
+| ♻️ | **Garbage Classification AI** — Naive Bayes classifier, 95% accuracy |
 
 <br>
 
-<div align="center">
+
+
+## Connect With Me
+
+<p>
+<a href="mailto:javeriasarwar445@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4F5B93&height=100&section=footer" width="100%"/>
-</div>
