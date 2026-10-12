@@ -27,7 +27,6 @@ I'm a Software Engineering student who enjoys building web applications, designi
 - 💻 Full-stack developer working with **PHP, MySQL, JavaScript, and React**
 - 🛡️ Interested in secure coding, cybersecurity, and clean database design
 - 🧠 Currently expanding into **Artificial Intelligence** and **Digital Marketing**
-- 🏢 Co-building **Zeltrion Solutions**, focused on AI automation, chatbots, and digital marketing
 - 🎯 Goal: turn ideas into products that people can actually use
 
 > I care about understanding how things work, writing maintainable code, and shipping projects that solve real problems.
