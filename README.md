@@ -112,7 +112,7 @@ Naive Bayes classifier reaching 95% accuracy.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=javeriasarwar67&hide_border=true&background=0F172A&ring=8B9DF0&fire=8B9DF0&currStreakLabel=8B9DF0&sideLabels=CBD5E1&dates=94A3B8" width="80%" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=javeriasarwar67&hide_border=true&background=0F172A&ring=8B9DF0&fire=8B9DF0&currStreakLabel=8B9DF0&currStreakNum=FFFFFF&sideLabels=CBD5E1&sideNums=FFFFFF&dates=94A3B8" width="80%" alt="GitHub contribution streak" />
 
 <br/><br/>
 
