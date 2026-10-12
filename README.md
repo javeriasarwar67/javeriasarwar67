@@ -98,4 +98,71 @@ Naive Bayes classifier reaching 95% accuracy.
 
 ---
 
-## `04` / GitHub
+## `04` / GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/javeriasarwar67">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=javeriasarwar67&show_icons=true&hide_border=true&bg_color=0F172A&title_color=8B9DF0&icon_color=8B9DF0&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/javeriasarwar67">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javeriasarwar67&layout=compact&hide_border=true&bg_color=0F172A&title_color=8B9DF0&text_color=CBD5E1" alt="Most used programming languages" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=javeriasarwar67&hide_border=true&background=0F172A&ring=8B9DF0&fire=8B9DF0&currStreakLabel=8B9DF0&sideLabels=CBD5E1&dates=94A3B8" width="80%" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=javeriasarwar67&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub achievements" />
+
+</div>
+
+---
+
+## `05` / Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/javeriasarwar67/javeriasarwar67/output/github-contribution-grid-snake-dark.svg?v=2" width="100%" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+## `06` / Beyond the Code
+
+<div align="center">
+
+`Problem Solving` &nbsp; `Software Design` &nbsp; `Database Design`
+
+`Continuous Learning` &nbsp; `Teamwork` &nbsp; `AI / Automation`
+
+</div>
+
+---
+
+## `07` / Let's Connect
+
+<div align="center">
+
+I'm open to collaborating on web projects, building useful software, and exploring AI and digital marketing opportunities.
+
+<br/>
+
+<a href="mailto:javeriasarwar445@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4F5B93?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
+<a href="https://github.com/javeriasarwar67"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=javeriasarwar67&style=flat-square&color=4F5B93&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4F5B93,100:0F172A&height=80&section=footer&animation=fadeIn" width="100%" />
+
+<sub>BUILD WITH PURPOSE. LEARN EVERY DAY. KEEP SHIPPING.</sub>
+
+</div>
